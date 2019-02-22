@@ -1,4 +1,4 @@
--- Simple auth/react-router app
+## Simple auth/react-router app
 
 To run:
 1) git clone https://github.com/bill-litsas/basic-react-router-auth.git
