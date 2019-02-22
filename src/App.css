@@ -23,6 +23,13 @@
   color: #61dafb;
 }
 
+.login-form{
+  width: 300px; 
+  position: absolute;
+  left: 50%; 
+  margin-left: -150px
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
